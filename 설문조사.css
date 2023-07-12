@@ -1,0 +1,42 @@
+@font-face {
+  font-family: "TheJamsil5Bold";
+  src: url("https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2302_01@1.0/TheJamsil5Bold.woff2")
+    format("woff2");
+  font-weight: 400;
+  font-style: normal;
+}
+body {
+  font-family: "TheJamsil5Bold";
+  margin-left: 2vw;
+}
+
+input {
+  margin-top: 3vw;
+  margin-left: 1vw;
+}
+h2 {
+  text-decoration: overline;
+}
+.name-pw {
+  margin: 2vw;
+}
+h3 {
+  background-color: aquamarine;
+  margin-top: 7vw;
+}
+
+textarea {
+  margin-top: 5vw;
+  width: 80vw;
+  min-width: 40vw;
+  font-family: "TheJamsil5Bold";
+}
+button {
+  background-color: aquamarine;
+  width: 100px;
+  height: 30px;
+  text-align: center;
+  line-height: 5px;
+  border-radius: 50%;
+  border: grey;
+}
